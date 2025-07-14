@@ -4,7 +4,7 @@ author: Paul Ganssle
 email: test@test.com
 lang: en-us
 logo: "/test-podcast/assets/img/logo.png"
-baseurl: "/test-podcast"
+baseurl: ""
 url: "https://pganssle.github.io/test-podcast"
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
