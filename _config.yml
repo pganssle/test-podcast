@@ -3,7 +3,7 @@ description: A test RSS feed for podcasts
 author: Paul Ganssle
 email: test@test.com
 lang: en-us
-logo: assets/img/logo.png
+logo: "/test-podcast/assets/img/logo.png"
 baseurl: "/test-podcast"
 url: "https://pganssle.github.io/test-podcast"
 # baseurl: "" # the subpath of your site, e.g. /blog
