@@ -14,7 +14,7 @@
     <div class="wrapper">
       <header>
         {% if site.logo %}
-        <img id="logo" src="{{site.logo | relative_url}}" alt="Logo" />
+        <img id="logo" src="{{site.logo | prepend: site.baseurl | prepend: site.url | relative_url}}" alt="Logo" />
         {% endif %}
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
         <h2>{{ site.author }}</h2>
